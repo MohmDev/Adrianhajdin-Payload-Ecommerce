@@ -8,7 +8,7 @@ import { Header } from './_components/Header';
 import { Providers } from './_providers';
 import { InitTheme } from './_providers/Theme/InitTheme';
 import { mergeOpenGraph } from './_utilities/mergeOpenGraph';
-sss;
+
 import './_css/app.scss';
 
 const jost = Jost({
